@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Rupavahini.lk" tvg-name="Rupavahini" group-title="Sri Lanka",Rupavahini
+https://live.nethra.lk/rupavahini/index.m3u8
+
+#EXTINF:-1 tvg-id="ChannelEye.lk" tvg-name="Channel Eye" group-title="Sri Lanka",Channel Eye
+https://live.nethra.lk/channleeye/index.m3u8
+
+#EXTINF:-1 tvg-id="ITN.lk" tvg-name="ITN" group-title="Sri Lanka",ITN
+https://live.nethra.lk/itn/index.m3u8
+
+#EXTINF:-1 tvg-id="Nethra.lk" tvg-name="Nethra TV" group-title="Sri Lanka",Nethra TV
+https://live.nethra.lk/nethra/index.m3u8
+
+#EXTINF:-1 tvg-id="Derana.lk" tvg-name="Derana TV" group-title="Sri Lanka",Derana TV
+https://live.derana.lk/derana/index.m3u8
+
+#EXTINF:-1 tvg-id="Hiru.lk" tvg-name="Hiru TV" group-title="Sri Lanka",Hiru TV
+https://live.hirutv.lk/hirutv/index.m3u8
+
+#EXTINF:-1 tvg-id="Swarnavahini.lk" tvg-name="Swarnavahini" group-title="Sri Lanka",Swarnavahini
+https://live.swarnavahini.lk/swarnavahini/index.m3u8
