@@ -17,12 +17,3 @@ https://iptv-org.github.io/channels/lk/SirasaTV.m3u8
 
 #EXTINF:-1 tvg-id="Rupavahini.lk" tvg-name="Rupavahini" group-title="Sri Lanka",Rupavahini
 https://iptv-org.github.io/channels/lk/Rupavahini.m3u8
-
-#EXTINF:-1 tvg-id="ITN.lk" tvg-name="ITN" group-title="Sri Lanka",ITN
-https://live.nethra.lk/itn/index.m3u8
-
-#EXTINF:-1 tvg-id="Hiru.lk" tvg-name="Hiru TV 2" group-title="Sri Lanka",Hiru TV
-https://live.hirutv.lk/hirutv/index.m3u8
-
-#EXTINF:-1 tvg-id="SwarnavahiniTV" tvg-name="Swarnavahini 2" group-title="Sri Lanka",Swarnavahini
-https://live.swarnavahini.lk/swarnavahini/index.m3u8
